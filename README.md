@@ -1,4 +1,3 @@
-# feddit-cammini
-Repository GitHub per la community di Feddit.it c/cammini.
+# GPX
 
-Wiki: https://github.com/eat-your-glory/feddit-cammini/wiki
+In questo branch/ramo della repository, possiamo caricare i file gpx.
